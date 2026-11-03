@@ -26,7 +26,7 @@ Tous les prénoms et toutes les données de cette démo sont fictifs.
 
 ## Conception
 
-Conçu et développé par Romain Blanloeil, avec l'assistance de Claude (Anthropic) pour l'écriture du code.
+Conçu et développé par Romain Blanloeil (whit3roro), avec l'assistance de Claude (Anthropic) pour l'écriture du code.
 Choix fonctionnels, tests, mise en ligne et maintenance : Romain Blanloeil.
 
 ## Licence
