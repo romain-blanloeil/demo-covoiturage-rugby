@@ -23,3 +23,12 @@ Ce dépôt contient la **version de démonstration**, avec des données fictives
 ## Données
 
 Tous les prénoms et toutes les données de cette démo sont fictifs.
+
+## Conception
+
+Conçu et développé par Romain Blanloeil, avec l'assistance de Claude (Anthropic) pour l'écriture du code.
+Choix fonctionnels, tests, mise en ligne et maintenance : Romain Blanloeil.
+
+## Licence
+
+Code sous licence MIT (voir `LICENSE`).
